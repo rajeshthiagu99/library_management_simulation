@@ -1,0 +1,101 @@
+serial_no,book_id,book_unique_id,book_name,date_of_purchase,shelf_position,in_out
+1,1001,1000,A Tale of Two Cities,26-10-2022,1,True
+2,1002,1000,A Tale of Two Cities,26-10-2022,1,True
+3,1003,1000,A Tale of Two Cities,26-10-2022,1,True
+4,1004,1000,A Tale of Two Cities,26-10-2022,1,True
+5,1005,1000,A Tale of Two Cities,26-10-2022,1,True
+6,1006,1000,A Tale of Two Cities,26-10-2022,1,True
+7,1007,1000,A Tale of Two Cities,26-10-2022,1,True
+8,1008,1000,A Tale of Two Cities,26-10-2022,1,True
+9,1009,1000,A Tale of Two Cities,26-10-2022,1,True
+10,1010,1000,A Tale of Two Cities,26-10-2022,1,True
+11,1011,1000,A Tale of Two Cities,26-10-2022,1,True
+12,1012,1000,A Tale of Two Cities,26-10-2022,1,True
+13,1013,1000,A Tale of Two Cities,26-10-2022,1,True
+14,1014,1000,A Tale of Two Cities,26-10-2022,1,True
+15,1015,1000,A Tale of Two Cities,26-10-2022,1,True
+16,2001,2000,The Little Prince,26-10-2022,2,False
+17,2002,2000,The Little Prince,26-10-2022,2,False
+18,2003,2000,The Little Prince,26-10-2022,2,False
+19,2004,2000,The Little Prince,26-10-2022,2,True
+20,2005,2000,The Little Prince,26-10-2022,2,False
+21,2006,2000,The Little Prince,26-10-2022,2,False
+22,2007,2000,The Little Prince,26-10-2022,2,True
+23,2008,2000,The Little Prince,26-10-2022,2,True
+24,2009,2000,The Little Prince,26-10-2022,2,True
+25,2010,2000,The Little Prince,26-10-2022,2,True
+26,2011,2000,The Little Prince,26-10-2022,2,True
+27,2012,2000,The Little Prince,26-10-2022,2,True
+28,2013,2000,The Little Prince,26-10-2022,2,True
+29,2014,2000,The Little Prince,26-10-2022,2,True
+30,2015,2000,The Little Prince,26-10-2022,2,True
+31,2016,2000,The Little Prince,26-10-2022,2,True
+32,2017,2000,The Little Prince,26-10-2022,2,True
+33,2018,2000,The Little Prince,26-10-2022,2,True
+34,2019,2000,The Little Prince,26-10-2022,2,True
+35,3001,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,False
+36,3002,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+37,3003,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+38,3004,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+39,3005,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+40,3006,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+41,3007,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+42,3008,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+43,3009,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+44,3010,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+45,3011,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+46,3012,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+47,3013,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+48,3014,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+49,3015,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+50,3016,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+51,3017,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+52,3018,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+53,3019,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+54,3020,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+55,3021,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+56,3022,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+57,3023,3000,Harry Potter and the Philosopher's Stone,26-10-2022,3,True
+58,4001,4000,The Hobbit,26-10-2022,4,False
+59,4002,4000,The Hobbit,26-10-2022,4,True
+60,4003,4000,The Hobbit,26-10-2022,4,True
+61,4004,4000,The Hobbit,26-10-2022,4,True
+62,4005,4000,The Hobbit,26-10-2022,4,True
+63,4006,4000,The Hobbit,26-10-2022,4,True
+64,4007,4000,The Hobbit,26-10-2022,4,True
+65,4008,4000,The Hobbit,26-10-2022,4,True
+66,4009,4000,The Hobbit,26-10-2022,4,True
+67,5001,5000,The Da Vinci Code,26-10-2022,5,True
+68,5002,5000,The Da Vinci Code,26-10-2022,5,True
+69,5003,5000,The Da Vinci Code,26-10-2022,5,True
+70,5004,5000,The Da Vinci Code,26-10-2022,5,True
+71,5005,5000,The Da Vinci Code,26-10-2022,5,True
+72,5006,5000,The Da Vinci Code,26-10-2022,5,True
+73,5007,5000,The Da Vinci Code,26-10-2022,5,True
+74,5008,5000,The Da Vinci Code,26-10-2022,5,True
+75,5009,5000,The Da Vinci Code,26-10-2022,5,True
+76,5010,5000,The Da Vinci Code,26-10-2022,5,True
+77,5011,5000,The Da Vinci Code,26-10-2022,5,True
+78,5012,5000,The Da Vinci Code,26-10-2022,5,True
+79,5013,5000,The Da Vinci Code,26-10-2022,5,True
+80,5014,5000,The Da Vinci Code,26-10-2022,5,True
+81,6001,6000,The Catcher in the Rye,26-10-2022,6,False
+82,6002,6000,The Catcher in the Rye,26-10-2022,6,True
+83,6003,6000,The Catcher in the Rye,26-10-2022,6,True
+84,7001,7000,Anne of Green Gables,26-10-2022,7,True
+85,7002,7000,Anne of Green Gables,26-10-2022,7,True
+86,7003,7000,Anne of Green Gables,26-10-2022,7,True
+87,7004,7000,Anne of Green Gables,26-10-2022,7,True
+88,7005,7000,Anne of Green Gables,26-10-2022,7,True
+89,8001,8000,Black Beauty,26-10-2022,8,False
+90,8002,8000,Black Beauty,26-10-2022,8,True
+91,8003,8000,Black Beauty,26-10-2022,8,True
+92,8004,8000,Black Beauty,26-10-2022,8,True
+93,8005,8000,Black Beauty,26-10-2022,8,True
+94,8006,8000,Black Beauty,26-10-2022,8,True
+95,8007,8000,Black Beauty,26-10-2022,8,True
+96,8008,8000,Black Beauty,26-10-2022,8,True
+97,9001,9000,Watership Down,26-10-2022,9,False
+98,9002,9000,Watership Down,26-10-2022,9,False
+99,10001,10000,The Ginger Man,26-10-2022,10,True
+100,10002,10000,The Ginger Man,26-10-2022,10,True
